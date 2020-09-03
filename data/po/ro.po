@@ -180,7 +180,7 @@ msgstr "Înapoi"
 
 #. I18N: ./data/gui/dialogs/android/init_android.stkgui
 msgid "Select a type of control that you prefer"
-msgstr ""
+msgstr "Selecteaza modul de control pe care il preferi"
 
 #. I18N: ./data/gui/dialogs/android/init_android.stkgui
 #. I18N: Control type
@@ -274,7 +274,7 @@ msgstr "Butoane inversate"
 #. I18N: ./data/gui/dialogs/android/multitouch_settings.stkgui
 #. I18N: In the multitouch settings screen
 msgid "Buttons scale"
-msgstr ""
+msgstr "Marimea Butonului"
 
 #. I18N: ./data/gui/dialogs/android/multitouch_settings.stkgui
 #. I18N: In the multitouch settings screen
@@ -365,7 +365,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 #. I18N: In the ui/camera screen
 msgid "Distance"
-msgstr ""
+msgstr "Distanta"
 
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 #. I18N: In the ui/camera screen
@@ -449,7 +449,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: Video settings
 msgid "Animated characters"
-msgstr ""
+msgstr "Caractere animate"
 
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: Video settings
@@ -469,7 +469,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: Video settings
 msgid "Geometry detail"
-msgstr ""
+msgstr "Detali Geometrice"
 
 #. I18N: ./data/gui/dialogs/custom_video_settings.stkgui
 #. I18N: Video settings
@@ -547,29 +547,29 @@ msgstr ""
 #. I18N: Progress in achievement
 #: src/states_screens/online/online_profile_achievements.cpp:85
 msgid "Progress"
-msgstr ""
+msgstr "Progres"
 
 #. I18N: ./data/gui/dialogs/online/change_password.stkgui
 #. I18N: In the change password dialog
 msgid "Password Change"
-msgstr ""
+msgstr "Schimba Parola"
 
 #. I18N: ./data/gui/dialogs/online/change_password.stkgui
 #. I18N: In the change password dialog
 msgid "Current Password"
-msgstr ""
+msgstr "Parola Curenta"
 
 #. I18N: ./data/gui/dialogs/online/change_password.stkgui
 #. I18N: In the change password dialog
 msgid "New Password"
-msgstr ""
+msgstr "Parola Noua"
 
 #. I18N: ./data/gui/dialogs/online/change_password.stkgui
 #. I18N: In the change password dialog
 #. I18N: ./data/gui/screens/online/register.stkgui
 #. I18N: In the registration dialog
 msgid "Confirm"
-msgstr ""
+msgstr "Confirma"
 
 #. I18N: ./data/gui/dialogs/online/change_password.stkgui
 #. I18N: In the change password dialog
@@ -659,14 +659,14 @@ msgstr ""
 
 #. I18N: ./data/gui/dialogs/online/player_rankings_dialog.stkgui
 msgid "Refresh"
-msgstr ""
+msgstr "Reîncarca"
 
 #. I18N: ./data/gui/dialogs/online/recovery_info.stkgui
 #. I18N: In the recovery dialog
 #. I18N: ./data/gui/dialogs/online/recovery_input.stkgui
 #. I18N: In the recovery dialog
 msgid "Account Recovery"
-msgstr ""
+msgstr "Recuperaza Contul"
 
 #. I18N: ./data/gui/dialogs/online/recovery_info.stkgui
 #. I18N: In the recovery dialog
@@ -690,14 +690,14 @@ msgstr ""
 #: src/states_screens/online/online_profile_friends.cpp:72
 #: src/states_screens/online/online_user_search.cpp:71
 msgid "Username"
-msgstr ""
+msgstr "Numele"
 
 #. I18N: ./data/gui/dialogs/online/recovery_input.stkgui
 #. I18N: In the recovery dialog
 #. I18N: ./data/gui/screens/online/register.stkgui
 #. I18N: In the registration dialog
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #. I18N: ./data/gui/dialogs/online/registration_terms.stkgui
 #. I18N: In the registration dialog
@@ -714,7 +714,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/online/user_info_dialog.stkgui
 #. I18N: User info dialog
 msgid "Accept"
-msgstr ""
+msgstr "Acepta"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: In the server configuration screen
@@ -726,7 +726,7 @@ msgstr ""
 #. I18N: ./data/gui/screens/online/create_server.stkgui
 #. I18N: In the server creation screen
 msgid "Difficulty"
-msgstr ""
+msgstr "Dificultate"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Difficulty
@@ -774,7 +774,7 @@ msgstr "Expert"
 #. I18N: Difficulty
 #: src/race/race_manager.cpp:1216
 msgid "SuperTux"
-msgstr ""
+msgstr "SuperTux"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: In the server configuration screen
@@ -782,7 +782,7 @@ msgstr ""
 #. I18N: In the server creation screen
 #: src/states_screens/track_info_screen.cpp:248
 msgid "Game mode"
-msgstr ""
+msgstr "Modul Jocului"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Multiplayer game mode
@@ -791,7 +791,7 @@ msgstr ""
 #. I18N: Game mode
 #: src/network/server_config.cpp:260 src/race/race_manager.cpp:1188
 msgid "Normal Race"
-msgstr ""
+msgstr "Cursa Normala"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Multiplayer game mode
@@ -808,7 +808,7 @@ msgstr "Cursa contra timp"
 #. I18N: Multiplayer game mode
 #: src/states_screens/race_setup_screen.cpp:112
 msgid "Battle"
-msgstr ""
+msgstr "Batalie"
 
 #. I18N: ./data/gui/dialogs/online/server_configuration_dialog.stkgui
 #. I18N: Multiplayer game mode
@@ -827,12 +827,12 @@ msgstr ""
 #. I18N: ./data/gui/screens/user_screen_tab.stkgui
 #. I18N: In the user screen
 msgid "Password"
-msgstr ""
+msgstr "Parola"
 
 #. I18N: ./data/gui/dialogs/online/server_info_dialog.stkgui
 #. I18N: In the server info dialog
 msgid "Join"
-msgstr ""
+msgstr "Intra"
 
 #. I18N: ./data/gui/dialogs/online/splitscreen_player_dialog.stkgui
 #. I18N: Splitscreen player in network
@@ -843,12 +843,12 @@ msgstr ""
 #. I18N: Splitscreen player in network
 #: src/states_screens/online/online_profile_achievements.cpp:76
 msgid "Name"
-msgstr ""
+msgstr "Nume"
 
 #. I18N: ./data/gui/dialogs/online/splitscreen_player_dialog.stkgui
 #. I18N: Splitscreen player in network
 msgid "Handicap"
-msgstr ""
+msgstr "Handicap"
 
 #. I18N: ./data/gui/dialogs/online/splitscreen_player_dialog.stkgui
 #. I18N: Splitscreen player in network
@@ -873,7 +873,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/online/user_info_dialog.stkgui
 #. I18N: User info dialog
 msgid "Add Friend"
-msgstr ""
+msgstr "Adauga Prieten"
 
 #. I18N: ./data/gui/dialogs/online/user_info_dialog.stkgui
 #. I18N: User info dialog
@@ -883,7 +883,7 @@ msgstr ""
 #. I18N: ./data/gui/dialogs/online/vote_dialog.stkgui
 #. I18N: In the vote dialog
 msgid "Vote"
-msgstr ""
+msgstr "Voteaza"
 
 #. I18N: ./data/gui/dialogs/overworld_dialog.stkgui
 #. I18N: ./data/gui/dialogs/race_paused_dialog.stkgui
@@ -893,17 +893,17 @@ msgstr "Pauza"
 #. I18N: ./data/gui/dialogs/overworld_dialog.stkgui
 #. I18N: In the in-game dialog
 msgid "Back to Game"
-msgstr ""
+msgstr "Inapoi in joc"
 
 #. I18N: ./data/gui/dialogs/overworld_dialog.stkgui
 #. I18N: In the in-game dialog
 msgid "Select kart"
-msgstr ""
+msgstr "Selecteaza kartul"
 
 #. I18N: ./data/gui/dialogs/overworld_dialog.stkgui
 #. I18N: In the in-game dialog
 msgid "Back to menu"
-msgstr ""
+msgstr "Inapoi in meniu"
 
 #. I18N: ./data/gui/dialogs/press_a_key_dialog.stkgui
 #. I18N: When changing input configurations
@@ -976,7 +976,7 @@ msgstr ""
 #. I18N: ./data/gui/screens/addons_screen.stkgui
 #. I18N: In the addons screen
 msgid "Karts"
-msgstr ""
+msgstr "Karturi"
 
 #. I18N: ./data/gui/screens/addons_screen.stkgui
 #. I18N: In the addons screen
@@ -996,7 +996,7 @@ msgstr "Arene"
 #. I18N: In addons screen, above the list of addons to be installed
 #: src/states_screens/addons_screen.cpp:136
 msgid "Installed"
-msgstr ""
+msgstr "Instalat"
 
 #. I18N: ./data/gui/screens/arenas.stkgui
 #. I18N: track group
@@ -1066,12 +1066,12 @@ msgstr ""
 #. I18N: ./data/gui/screens/edit_gp.stkgui
 #. I18N: Menu item
 msgid "Move up"
-msgstr ""
+msgstr "Miscate in sus"
 
 #. I18N: ./data/gui/screens/edit_gp.stkgui
 #. I18N: Menu item
 msgid "Move down"
-msgstr ""
+msgstr "Miscate in jos"
 
 #. I18N: ./data/gui/screens/edit_gp.stkgui
 #. I18N: Menu item
@@ -1080,19 +1080,19 @@ msgstr ""
 #. I18N: ./data/gui/screens/user_screen_tab.stkgui
 #. I18N: In the user screen
 msgid "Add"
-msgstr ""
+msgstr "Adauga"
 
 #. I18N: ./data/gui/screens/edit_gp.stkgui
 #. I18N: Menu item
 #. I18N: ./data/gui/screens/grand_prix_editor.stkgui
 #. I18N: Menu item
 msgid "Edit"
-msgstr ""
+msgstr "Editeaza"
 
 #. I18N: ./data/gui/screens/edit_gp.stkgui
 #. I18N: Menu item
 msgid "Save"
-msgstr ""
+msgstr "Salveaza"
 
 #. I18N: ./data/gui/screens/edit_track.stkgui
 #. I18N: In the edit track screen
@@ -1122,7 +1122,7 @@ msgstr ""
 #. I18N: ./data/gui/screens/ghost_replay_selection.stkgui
 #. I18N: In the ghost replay selection screen
 msgid "Only show the best times"
-msgstr ""
+msgstr "Arata cele mai bune timpuri"
 
 #. I18N: ./data/gui/screens/ghost_replay_selection.stkgui
 #. I18N: In the ghost replay selection screen
@@ -1178,12 +1178,12 @@ msgstr ""
 #. I18N: ./data/gui/screens/grand_prix_editor.stkgui
 #. I18N: Menu item
 msgid "New"
-msgstr ""
+msgstr "Nou"
 
 #. I18N: ./data/gui/screens/grand_prix_editor.stkgui
 #. I18N: Menu item
 msgid "Copy"
-msgstr ""
+msgstr "Copiaza"
 
 #. I18N: ./data/gui/screens/grand_prix_editor.stkgui
 #. I18N: Menu item
@@ -1192,7 +1192,7 @@ msgstr ""
 #. I18N: ./data/gui/screens/user_screen_tab.stkgui
 #. I18N: In the user screen
 msgid "Rename"
-msgstr ""
+msgstr "Redenumeste"
 
 #. I18N: ./data/gui/screens/grand_prix_lose.stkgui
 #. I18N: ./data/gui/screens/grand_prix_win.stkgui
@@ -1258,7 +1258,7 @@ msgstr ""
 #. I18N: ./data/gui/screens/help7.stkgui
 #. I18N: Tab in help menu
 msgid "Bananas"
-msgstr ""
+msgstr "Banane"
 
 #. I18N: ./data/gui/screens/help1.stkgui
 #. I18N: Tab in help menu
@@ -1438,7 +1438,7 @@ msgstr ""
 msgid ""
 "Zipper - will give you a strong speed boost. But beware of not losing "
 "control of your kart!"
-msgstr ""
+msgstr "Controleaza kartul"
 
 #. I18N: ./data/gui/screens/help3.stkgui
 msgid ""
@@ -1456,11 +1456,11 @@ msgstr ""
 msgid ""
 "Bowling Ball - goes straight until it strikes, it can bounce off walls. If "
 "you are looking back, it will be thrown backwards."
-msgstr ""
+msgstr "Daca te uiti in spate, o sa arunci in spate"
 
 #. I18N: ./data/gui/screens/help3.stkgui
 msgid "Parachute - slows down all karts in a better position."
-msgstr ""
+msgstr "Parasuta - incetineste toate karturile in pozitii bune"
 
 #. I18N: ./data/gui/screens/help3.stkgui
 msgid ""
